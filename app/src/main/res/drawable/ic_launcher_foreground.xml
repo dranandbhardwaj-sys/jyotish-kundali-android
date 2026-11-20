@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer sacred Surya 8-point star rays within 66dp safe zone -->
+    <path
+        android:fillColor="#E5B84B"
+        android:pathData="M54,23 L58.2,35.6 L70.9,30.2 L65.4,42.8 L78,47 L67.4,54 L78,61 L65.4,65.2 L70.9,77.8 L58.2,72.4 L54,85 L49.8,72.4 L37.1,77.8 L42.6,65.2 L30,61 L40.6,54 L30,47 L42.6,42.8 L37.1,30.2 L49.8,35.6 Z" />
+    <!-- Inner maroon cutout ring for strong Kundali contrast -->
+    <path
+        android:fillColor="#3B0714"
+        android:pathData="M54,34 A20,20 0 1,0 54,74 A20,20 0 1,0 54,34 Z" />
+    <!-- Kundali outer square & inner diamond -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F4C852"
+        android:strokeWidth="2.2"
+        android:pathData="M41,41 L67,41 L67,67 L41,67 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F4C852"
+        android:strokeWidth="2"
+        android:pathData="M54,41 L67,54 L54,67 L41,54 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F4C852"
+        android:strokeWidth="1.4"
+        android:pathData="M41,41 L67,67 M67,41 L41,67" />
+    <!-- Central golden Surya Bindu -->
+    <path
+        android:fillColor="#FFF3C4"
+        android:pathData="M54,50.5 A3.5,3.5 0 1,0 54,57.5 A3.5,3.5 0 1,0 54,50.5 Z" />
+</vector>

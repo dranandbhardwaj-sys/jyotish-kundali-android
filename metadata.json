@@ -1,0 +1,6 @@
+{
+  "name": "Jyotish Kundali",
+  "description": "Premium Vedic astrology app featuring Kundali generation, 12 Rashis & daily Rashifal, North/South Indian Vedic birth charts, Panchang, Graha details, and Ashtakoota Kundali matching in Hindi & English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
